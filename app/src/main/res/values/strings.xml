@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Endless Call</string>
+    <string name="app_tagline">Smart Auto Redial &amp; Endless Dialing</string>
+    <string name="dial_button">Start Endless Call</string>
+    <string name="stop_button">Stop Redialing</string>
+    <string name="pause_button">Pause</string>
+    <string name="resume_button">Resume</string>
+    <string name="redial_now">Redial Now</string>
+    <string name="phone_number_hint">Enter phone number or select contact</string>
+    <string name="select_contact">Contacts</string>
+    <string name="tab_dialer">Dialer</string>
+    <string name="tab_presets">Quick Presets</string>
+    <string name="tab_history">Call History</string>
+    <string name="tab_settings">Settings</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Endless Call",
+  "description": "Powerful auto-redial and endless calling assistant with customizable retry loops, call duration limits, custom intervals, dual SIM options, and call history in a modern purple gradient interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
